@@ -1,10 +1,13 @@
 # Rakaat counter
 
-View your current rakaat in Solat (prayer).
+View your current rakaat in Solat (prayer). 
+
+Inspired by one demonstration by IIUM KOE senior from IIUM Gombak back when I was in foundation @ IIUM Kuantan on Enginius Open Day [_IIRC_](https://en.wikipedia.org/wiki/IIRC#:~:text=IIRC%2C%20an%20initialism%20for%20%22If,or%20%22If%20I%20Recall%20Correctly%22).
 
 ## DLD project
 
 ### Logisim
+
 
 | GIF                                                 | Screenshot                                         |
 | --------------------------------------------------- | -------------------------------------------------- |
@@ -12,12 +15,23 @@ View your current rakaat in Solat (prayer).
 
 ### Tinkercad
 
+Simulation: https://www.tinkercad.com/things/3XNPISfJVB1
+
 | GIF                                                 | Screenshot                                         |
 | --------------------------------------------------- | -------------------------------------------------- |
 | <img src="https://user-images.githubusercontent.com/60868965/119490167-1f6ad480-bd8f-11eb-9ed3-d08ec0fd956b.gif" /> | <img src="https://user-images.githubusercontent.com/60868965/119490043-f1859000-bd8e-11eb-9cac-a6aca7e74121.png" width="600" height="260"/> |
 
 <!-- 318 -->
 <!-- 338 -->
+
+### Project briefing
+[PROJECT BRIEFING.txt](https://github.com/iqfareez/rakaat_counter/files/6547136/PROJECT.BRIEFING.txt)
+### Project report
+[Report - RAKAAT COUNTER.pdf](https://github.com/iqfareez/rakaat_counter/files/6547138/Report.-.RAKAAT.COUNTER.pdf)
+
+### Presentation video
+
+https://youtu.be/KYKz7T8rCfA 
 
 ## Android
 
